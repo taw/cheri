@@ -1,3 +1,5 @@
+This is version of cheri library fixed to be compatible with Ruby 2.x.
+
 = Cheri -- A Builder Framework
 
 Cheri is a framework for creating builder applications (those that create
